@@ -1,0 +1,18 @@
+[0612/001953.554:ERROR:process_info.cc(329)] VirtualQueryEx: Access is denied. (0x5)
+[0612/001954.207:ERROR:process_info.cc(556)] ReadMemoryInfo failed
+[0612/001954.004:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0612/001954.489:ERROR:exception_snapshot_win.cc(98)] thread ID 11408 not found in process
+[0612/001954.207:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0612/001954.579:ERROR:process_info.cc(329)] VirtualQueryEx: Access is denied. (0x5)
+[0612/001954.579:ERROR:process_info.cc(556)] ReadMemoryInfo failed
+[0612/001954.579:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0612/001954.597:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0612/001954.597:ERROR:exception_snapshot_win.cc(98)] thread ID 6164 not found in process
+[0612/001954.750:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0612/001954.750:ERROR:exception_snapshot_win.cc(98)] thread ID 2852 not found in process
+[0612/001954.771:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0612/001954.771:ERROR:exception_snapshot_win.cc(98)] thread ID 15292 not found in process
+[0612/001954.815:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0612/001954.815:ERROR:exception_snapshot_win.cc(98)] thread ID 16512 not found in process
+[0612/001955.045:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0612/001955.045:ERROR:exception_snapshot_win.cc(98)] thread ID 16276 not found in process
